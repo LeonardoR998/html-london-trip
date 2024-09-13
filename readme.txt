@@ -1,0 +1,1 @@
+Non mi fa visualizzare graficamente la unordered list ma i testi me li fa visualizzare nel punto giusto.
